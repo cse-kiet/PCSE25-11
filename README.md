@@ -2,6 +2,7 @@ Title of Project: [STUDYVERSE]
 
 
 Team Members:
+
 1- [ANAND RASTOGI]
 2- [AVINASH TRIPATHI]
 3- [ADITYA KHESARI]
